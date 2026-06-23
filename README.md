@@ -30,6 +30,8 @@ where xx is the model variant to be downloaded:
 - learned w/ structure:       xx = learnstruct
 - all models:                 xx = all
 
+Zenodo URL: https://zenodo.org/records/18781460
+
 ## Quick Start for Generating New Images
 For generating new images, download the model weights and run:
 ```bash
